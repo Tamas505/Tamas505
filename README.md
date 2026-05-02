@@ -20,5 +20,7 @@ To become a professional web developer and build real-world applications.
 
 ## 📫 Contact
 - GitHub: https://github.com/Tamas505
+- Email: fractal5055@gmail.com
+- LinkedIn: https://www.linkedin.com/in/tamás-ferenc-kőműves-9096a5373/
 
 
