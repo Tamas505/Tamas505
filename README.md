@@ -1,26 +1,39 @@
-# Hi, I'm Tamás 👋
+Hi, I'm Tamás 👋
 
-Junior Frontend Developer
+Junior Web Developer
 
-## 🚀 Technologies
-- HTML
-- CSS
-- JavaScript
-- Angular
+I build real-world web applications using HTML, CSS, JavaScript, Angular, PHP and MySQL.
 
-## 📌 Projects
-- Book Database – CRUD web application (PHP, MySQL, Bootstrap)  
-- MusicBox – music collection manager (in progress)
+Technologies
 
-## 🎯 Goal
-To become a professional web developer and build real-world applications.
+HTML5
+CSS3
+JavaScript
+TypeScript
+Angular
+PHP
+MySQL
+PDO
+Bootstrap
+Git & GitHub
+Eleventy (11ty)
 
-## 🌐 Portfolio
-- https://tamas505.github.io/portfolio/
+📌 Projects
 
-## 📫 Contact
-- GitHub: https://github.com/Tamas505
-- Email: fractal5055@gmail.com
-- LinkedIn: https://www.linkedin.com/in/tamás-ferenc-kőműves-9096a5373/
+CarService – appointment booking system for car services (PHP, MySQL, PDO)
+Book Database – CRUD web application (PHP, MySQL, Bootstrap)
+MusicBox – music collection manager (PHP, MySQL)
+Personal Portfolio – responsive portfolio website
+Megtalált írások – static blog built with Eleventy
 
+🎯 Goal
 
+To become a professional full-stack web developer and build useful, real-world applications.
+
+🌐 Portfolio
+https://tamas505.github.io/portfolio/
+
+📫 Contact
+GitHub: https://github.com/Tamas505
+Email: fractal5055@gmail.com
+LinkedIn: https://www.linkedin.com/in/tamás-ferenc-kőműves-9096a5373/
