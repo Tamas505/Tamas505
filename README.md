@@ -38,5 +38,6 @@ To become a professional full-stack web developer and build useful, real-world a
 ## 📫 Contact
 
 * GitHub: https://github.com/Tamas505
+* Home: https://www.komuvestamas.hu/index.html
 * Email: [fractal5055@gmail.com](mailto:fractal5055@gmail.com)
 * LinkedIn: https://www.linkedin.com/in/tamás-ferenc-kőműves-9096a5373/
