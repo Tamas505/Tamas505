@@ -17,6 +17,7 @@ I build real-world web applications using HTML, CSS, JavaScript, Angular, PHP an
 * Bootstrap
 * Git & GitHub
 * Eleventy (11ty)
+* Docker
 
 ## 📌 Projects
 
